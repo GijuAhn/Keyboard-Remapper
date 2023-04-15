@@ -98,7 +98,7 @@ Backslash single key input is triggered at the moment you press and 'release' th
 | \ + ' | Media_Play_Pause (미디어 일시정지·재생 ⏯)    |
 | \ + ; | Media_Stop (미디어 정지 ⏹)                   |
 
-### FAQ
+## FAQ
 
 * Q: How can I turn off Capslock? 캡스락 어떻게 끄나요?
   * A: Use the [_Backslash_ + c] shortcut to toggle Capslock. [\\ + c] 단축키로 캡스락을 토글할 수 있습니다.
