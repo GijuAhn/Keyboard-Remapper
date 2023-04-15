@@ -10,8 +10,8 @@
 [Inspired by] Leopold FC660, Thinkpad Trackpoint, Vortex Pok3r
 
 ## Features
-* All shortcuts can be used with the modifier keys! (Ctrl, Alt, Shift, Win)
-  * 모든 단축키는 수정자와 함께 조합해서 사용할 수 있습니다!
+* All shortcuts can be used with the modifier keys. (Ctrl, Alt, Shift, Win)
+  * 모든 단축키는 수정자와 함께 조합해서 사용할 수 있습니다.
   
 * Built with [AutoHotkey v2](https://github.com/AutoHotkey/AutoHotkey), it responds immediately and accurately to your keystrokes.
   * 오토핫키 v2로 컴파일하여 키보드 입력에 즉각적이고 정확하게 반응합니다.
@@ -80,7 +80,7 @@ CapsLock ⇒ Control
 ### _Backslash_ for util
 
 Backslash single key input is triggered at the moment you press and 'release' the key.\
-백슬래시 단일키 입력은 키를 누르고 '뗄 때' 트리거됩니다.
+백슬래시 단일키 입력('\\')은 키를 누르고 '뗄 때' 트리거됩니다.
 
 | Key   | Action                                       |
 | ----- | -------------------------------------------- |
@@ -98,7 +98,7 @@ Backslash single key input is triggered at the moment you press and 'release' th
 | \ + ' | Media_Play_Pause (미디어 일시정지·재생 ⏯)    |
 | \ + ; | Media_Stop (미디어 정지 ⏹)                   |
 
-### FAQ
+## FAQ
 
 * Q: How can I turn off Capslock? 캡스락 어떻게 끄나요?
   * A: Use the [_Backslash_ + c] shortcut to toggle Capslock. [\\ + c] 단축키로 캡스락을 토글할 수 있습니다.
@@ -108,3 +108,6 @@ Backslash single key input is triggered at the moment you press and 'release' th
 
 * Q. Does the keyboard remapper work on the shell? 쉘에서도 작동하나요?
   * A. Yes. It works on the shell, like PowerShell, CMD, and Git Bash. 넹.
+
+* Q. How can I suspend the remapper? 리매퍼를 비활성화할 수 있나요?
+  * A. Use the [_ALT_ + x] shortcut to toggle the remapper. [Alt + x] 단축키로 리매퍼를 활성화/비활성화 할 수 있습니다.
