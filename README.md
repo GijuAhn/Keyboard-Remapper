@@ -101,16 +101,19 @@ Backslash single key input is triggered at the moment you press and 'release' th
 ## FAQ
 
 * Q: How can I turn off Capslock? 캡스락 어떻게 끄나요?
-  * A: Use the [_Backslash_ + c] shortcut to toggle Capslock. [\\ + c] 단축키로 캡스락을 토글할 수 있습니다.
+  * A: Use the `\ + c` shortcut to toggle Capslock. `\ + c` 단축키로 캡스락을 토글할 수 있습니다.
   
 * Q. Control key acts as if it is stuck periodically. 컨트롤 키가 가끔 눌린 상태로 고정된 것처럼 작동합니다.
-  * A. Most of the time, [Ctrl + Alt + Del] and escape resets key status to normal. 대부분의 경우, [Ctrl + Alt + Del]로 작업관리자에 진입했다 나오면 정상 상태로 돌아옵니다.
+  * A. Most of the time, `Ctrl + Alt + Del` and escape resets key status to normal. 대부분의 경우, `Ctrl + Alt + Del` 로 작업관리자에 진입했다 나오면 정상 상태로 돌아옵니다.
 
 * Q. Does the keyboard remapper work on the shell? 쉘에서도 작동하나요?
-  * A. Yes. It works on the shell, like PowerShell, CMD, and Git Bash. 넹.
+  * A. Yes. It works on the shell, like PowerShell, CMD, and Git Bash. 네. PowerShell, CMD, Git Bash 등 쉘 환경에서도 사용할 수 있습니다.
 
 * Q. How can I suspend the remapper? 리매퍼를 비활성화할 수 있나요?
-  * A. Use the [_ALT_ + x] shortcut to toggle the remapper. [Alt + x] 단축키로 리매퍼를 활성화/비활성화 할 수 있습니다.
+  * A. Use the `Alt + x` shortcut to toggle the remapper. `Alt + x` 단축키로 리매퍼를 활성화/비활성화 할 수 있습니다.
   
-* Q. Why is the arrow key mapping IJKL, not HJKL? 왜 방향키가 HJKL 이 아니라 IJKL 이죠?
+* Q. Why is the arrow key mapping _IJKL_, not _HJKL_? 왜 방향키가 _HJKL_ 이 아니라 _IJKL_ 이죠?
   * A. Because this key mapping is inspired by Thinkpad Trackpoint layout. Also, HJKL is not ergonomic. 기존 표준 방향키의 배열 및 사용감을 그대로 살리고 싶었습니다.
+
+* Q. I want to have the remapper run automatically when the computer turns on. 컴퓨터가 켜질 때 리매퍼가 자동으로 실행되도록 하고 싶어요.
+  * A. `Win + r` → `shell:startup` → add _.exe_ file to the startup folder. `Win + r` → `shell:startup` → '시작 프로그램' 폴더에 _.exe_ 파일을 추가합니다.
