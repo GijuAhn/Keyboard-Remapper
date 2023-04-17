@@ -111,3 +111,6 @@ Backslash single key input is triggered at the moment you press and 'release' th
 
 * Q. How can I suspend the remapper? 리매퍼를 비활성화할 수 있나요?
   * A. Use the [_ALT_ + x] shortcut to toggle the remapper. [Alt + x] 단축키로 리매퍼를 활성화/비활성화 할 수 있습니다.
+  
+* Q. Why is the arrow key mapping IJKL, not HJKL? 왜 방향키가 HJKL 이 아니라 IJKL 이죠?
+  * A. Because this key mapping is inspired by Thinkpad Trackpoint. Also, HJKL is not ergonomic. 기존 표준 방향키의 배열 및 사용성을 그대로 살리고 싶었습니다.
