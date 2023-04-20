@@ -75,6 +75,7 @@ CapsLock ⇒ Control
 | RShift + -        | F11    |
 | RShift + =        | F12    |
 | RShift + \        | Insert |
+| RShift + `        | Escape |
 | Shift + Backspace | Delete |
 
 ### _Backslash_ for util
