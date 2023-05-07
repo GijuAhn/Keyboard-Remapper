@@ -7,7 +7,7 @@
 > 가볍고, 안정적이고, 입력에 즉각적으로 반응합니다.\
 > 작업 효율을 최대화하세요.
 
-[App Version] v3.2.0\
+[App Version] v3.2.1\
 [AHK Version] v2.0.2\
 [Inspired by] LEOPOLD 660 model, Thinkpad trackpoint, Pok3r 60% layout, HHKB\
 [Target layout] QWERTY & 표준 두벌식
@@ -79,21 +79,23 @@ For example, to input `Alt + Home`, press `Alt + RShift + h`.\
 
 ### _SHIFT_ action
 
-| Key        | Action |
-| ---------- | ------ |
-| RShift + 1 | F1     |
-| RShift + 2 | F2     |
-| RShift + 3 | F3     |
-| RShift + 4 | F4     |
-| RShift + 5 | F5     |
-| RShift + 6 | F6     |
-| RShift + 7 | F7     |
-| RShift + 8 | F8     |
-| RShift + 9 | F9     |
-| RShift + 0 | F10    |
-| RShift + - | F11    |
-| RShift + = | F12    |
-| RShift + \ | Insert |
+| Key        | Action      |
+| ---------- | ----------- |
+| RShift + 1 | F1          |
+| RShift + 2 | F2          |
+| RShift + 3 | F3          |
+| RShift + 4 | F4          |
+| RShift + 5 | F5          |
+| RShift + 6 | F6          |
+| RShift + 7 | F7          |
+| RShift + 8 | F8          |
+| RShift + 9 | F9          |
+| RShift + 0 | F10         |
+| RShift + - | F11         |
+| RShift + = | F12         |
+| RShift + [ | backtick(`) |
+| RShift + ] | tilde(~)    |
+| RShift + \ | Insert      |
 
 ### _Backslash_ for util
 
@@ -105,6 +107,8 @@ Backslash single key input is triggered at the moment you press and 'release' th
 | \ + 0 | LButton (mouse left click)                               |
 | \ + - | MButton (mouse middle click)                             |
 | \ + = | RButton (mouse right click)                              |
+| \ + k | XButton1 (mouse back button)                             |
+| \ + i | XButton2 (mouse forward button)                          |
 | \ + c | CapsLock toggle ('c'apslock)                             |
 | \ + s | ScrollLock toggle ('s'crolllock)                         |
 | \ + l | Toggle every *lock* keys (capslock, scrolllock, numlock) |
