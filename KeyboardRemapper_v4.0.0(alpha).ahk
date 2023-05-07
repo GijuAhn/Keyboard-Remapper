@@ -38,7 +38,7 @@ RShift::
 ; Shift + BS => Delete
 +Backspace::Delete
 
-
+; mouse navigation
 hori := SysGet(78) // 40
 verti := SysGet(79) // 40
 
