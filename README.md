@@ -48,12 +48,12 @@ CapsLock ⇛ Control
 ### _ALT_ action
 
 If you want to use key combinations with `Alt`, append `RShift`.\
-For example, to input `Alt + Home`, press `Alt + RShift + h`.\
+For example, to input `Alt + Home`, press `Alt + RShift + h`.
 
 `Alt`키 자체를 단축키의 조합으로 사용하려면 `RShift`를 사용하세요.\
 예를 들어, `Alt + Home`을 입력하려면, 키보드에서 `Alt + RShift + h` 를 누릅니다.
 
-`LShift` operates as usual.\
+`LShift` operates as usual.
 
 `LShift`는 기존과 같이 작동합니다.\
 예를 들어, `Alt + Shift + Home`을 입력하려면, 키보드에서 `Alt + LShift + RShift + h` 를 누릅니다.
