@@ -143,7 +143,7 @@ Backslash single key input is triggered at the moment you press and 'release' th
 ## FAQ
 
 * Q: How can I turn off Capslock? 캡스락 어떻게 끄나요?
-  * A: Use the `\ + c` shortcut to toggle Capslock. `\ + l` turns off every 'lock'. `\ + c` 단축키로 캡스락을 토글할 수 있습니다. `\ + l`은 모든 '락'을 끕니다.
+  * A: Use the `\ + c` shortcut to toggle Capslock. `\ + o` turns off every 'lock'. `\ + c` 단축키로 캡스락을 토글할 수 있습니다. `\ + o`은 모든 '락'을 끕니다.
   
 * Q. Control key acts as if it is stuck periodically. 컨트롤 키가 가끔 눌린 상태로 고정된 것처럼 작동합니다.
   * A. Most of the time, `Ctrl + Alt + Del` and escape resets key status to normal. 대부분의 경우, `Ctrl + Alt + Del` 로 작업관리자에 진입했다 나오면 정상 상태로 돌아옵니다.
