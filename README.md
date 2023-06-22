@@ -7,8 +7,8 @@
 > 가볍고, 안정적이고, 입력에 즉각적으로 반응합니다.\
 > 작업 효율을 최대화하세요.
 
-[App Version] v3.2.1\
-[AHK Version] v2.0.2\
+[App Version] v3.2.2\
+[AHK Version] v2.0.3\
 [Inspired by] LEOPOLD 660 model, Thinkpad trackpoint, Pok3r 60% layout, HHKB\
 [Target layout] QWERTY & 표준 두벌식
 
@@ -69,9 +69,9 @@ For example, to input `Alt + Home`, press `Alt + RShift + h`.\
 | Alt + l | Right →                               |
 | Alt + u | Page Up                               |
 | Alt + o | Page Down                             |
-| Alt + y | Ctrl + Insert (yank in VIM)           |
-| Alt + p | Shift + Insert (put in VIM)           |
-| Alt + n | Toggle Numeric keypad (numpad)        |
+| Alt + y | Ctrl + Insert (*yank* in VIM)         |
+| Alt + p | Shift + Insert (*put* in VIM)         |
+| Alt + n | Toggle Numeric Keypad (numpad)        |
 | Alt + m | AppsKey (call mouse right click menu) |
 | Alt + , | Backspace (⇍)                         |
 | Alt + . | Delete (⇏)                            |
@@ -102,43 +102,43 @@ For example, to input `Alt + Home`, press `Alt + RShift + h`.\
 Backslash single key input is triggered at the moment you press and 'release' the key.\
 백슬래시 단일키 입력('\\')은 키를 누르고 '뗄 때' 트리거됩니다.
 
-| Key   | Action                                                   |
-| ----- | -------------------------------------------------------- |
-| \ + 0 | LButton (mouse left click)                               |
-| \ + - | MButton (mouse middle click)                             |
-| \ + = | RButton (mouse right click)                              |
-| \ + k | XButton1 (mouse back button)                             |
-| \ + i | XButton2 (mouse forward button)                          |
-| \ + c | CapsLock toggle ('c'apslock)                             |
-| \ + s | ScrollLock toggle ('s'crolllock)                         |
-| \ + l | Toggle every *lock* keys (capslock, scrolllock, numlock) |
-| \ + / | AppsKey(Menu) ('?')                                      |
-| \ + p | PrintScreen ('p'rintscreen)                              |
-| \ + b | CtrlBreak ('b'reak)                                      |
-| \ + h | Pause ('h'alt)                                           |
-| \ + m | Volume_Mute ('m'ute 🔈)                                   |
-| \ + , | Volume_Down (음량바를 왼쪽으로: 소리 작게 🔉)             |
-| \ + . | Volume_Up (음량바를 오른쪽으로: 소리 크게 🔊)             |
-| \ + [ | Media_Previous (이전 컨텐츠 ⏪)                           |
-| \ + ] | Media_Next (다음 컨텐츠 ⏩)                               |
-| \ + ' | Media_Play_Pause (미디어 일시정지·재생 ⏯)                |
-| \ + ; | Media_Stop (미디어 정지 ⏹)                               |
+| Key   | Action                                                              |
+| ----- | ------------------------------------------------------------------- |
+| \ + [ | LButton (mouse left click)                                          |
+| \ + ] | RButton (mouse right click)                                         |
+| \ + , | XButton1 (Typically performs the same function as Browser_Back.)    |
+| \ + . | XButton2 (Typically performs the same function as Browser_Forward.) |
+| \ + m | MButton (mouse middle click)                                        |
+| \ + c | CapsLock toggle ('c'apslock)                                        |
+| \ + s | ScrollLock toggle ('s'crolllock)                                    |
+| \ + o | 'OFF' every *lock* keys (capslock, scrolllock, numlock)             |
+| \ + / | AppsKey(Menu) ('?')                                                 |
+| \ + p | PrintScreen ('p'rintscreen)                                         |
+| \ + b | CtrlBreak ('b'reak)                                                 |
+| \ + h | Pause ('h'alt)                                                      |
+| \ + = | Volume_Up (소리 크게 '+' 🔊)                                         |
+| \ + - | Volume_Down (소리 작게 '-' 🔉)                                       |
+| \ + 0 | Volume_Mute (음소거 '0' 🔈)                                          |
+| \ + k | Media_Prev (이전 컨텐츠 ⏪)                                          |
+| \ + l | Media_Next (다음 컨텐츠 ⏩)                                          |
+| \ + ; | Media_Stop (미디어 정지 ⏹)                                          |
+| \ + ' | Media_Play_Pause (미디어 일시정지·재생 ⏯)                           |
 
 ### Numpad
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| 7   | 8   | 9   | 0   |
-| u   | i   | o   | p   |
-| j   | k   | l   | ;   |
-| m   | ,   | .   | /   |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| 7   | 8   | 9   | 0   | -   |
+| u   | i   | o   | p   |     |
+| j   | k   | l   | ;   |     |
+| m   | ,   | .   | /   |     |
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| 7   | 8   | 9   | *   |
-| 4   | 5   | 6   | +   |
-| 1   | 2   | 3   | -   |
-| 0   | 000 | .   | /   |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| 7   | 8   | 9   | 0   | -   |
+| 4   | 5   | 6   | +   |     |
+| 1   | 2   | 3   | *   |     |
+| 0   | ,   | .   | /   |     |
 
 ## FAQ
 
