@@ -7,8 +7,8 @@
 > 가볍고, 안정적이고, 입력에 즉각적으로 반응합니다.\
 > 작업 효율을 최대화하세요.
 
-[App Version] v3.2.3\
-[AHK Version] v2.0.3\
+[App Version] v3.2.4\
+[AHK Version] v2.0.4\
 [Inspired by] LEOPOLD 660 model, Thinkpad trackpoint, Pok3r 60% layout, HHKB\
 [Target layout] QWERTY & 표준 두벌식
 
