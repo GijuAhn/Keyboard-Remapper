@@ -17,6 +17,7 @@
   
 * This keyboard remapper uses the SpaceFn layer method, which is especially useful for mini layout keyboards that don't have arrow keys or function keys.
   * SpaceFn 레이어 방식을 채택하여, 방향키나 펑션키가 없는 미니 레이아웃 키보드에서 특히 유용합니다.
+  * https://geekhack.org/index.php?topic=51069.0
 
 ## Manual
 ### Base
