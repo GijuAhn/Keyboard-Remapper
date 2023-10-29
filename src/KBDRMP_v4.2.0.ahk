@@ -14,7 +14,7 @@ SetNumLockState "AlwaysOff"
 
 /*
 [Author] Ahn Giju
-[Update] 2023-10-27
+[Update] 2023-10-30
 #: WIN
 ^: CTRL
 !: ALT
